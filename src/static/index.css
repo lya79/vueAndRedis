@@ -1,0 +1,50 @@
+.body_bg {
+    background-color: WhiteSmoke;
+}
+
+.list_div {
+    margin: 0 auto;
+    width: 480px;
+    text-align: center;
+}
+
+.user_div {
+    float: right;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 250px;
+    background-color: WhiteSmoke;
+    text-align: center;
+}
+
+.user_input {
+    width: 120px;
+    min-width: 120px;
+    margin-top: 5px;
+}
+
+.user_table {
+    background: white;
+    border: 1px solid lightgray;
+    width: 100%;
+}
+
+.user_table_th {
+    text-align: left;
+    background: lightgray;
+}
+
+.user_table_td_num {
+    text-align: left;
+    border-right: 1px solid lightgray;
+}
+
+.user_table_td_text {
+    text-align: left;
+    border-right: 1px solid lightgray;
+}
+
+.user_table_td_func {
+    text-align: left;
+}

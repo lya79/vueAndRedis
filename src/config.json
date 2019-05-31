@@ -1,0 +1,9 @@
+{
+    "http_server_host": "",
+    "http_server_port": 8080,
+    "redis_host":"myredis",
+    "redis_port": 6379,
+    "redis_pwd": "",
+    "redis_dbIndex": 0,
+    "redis_key":"users"
+}
